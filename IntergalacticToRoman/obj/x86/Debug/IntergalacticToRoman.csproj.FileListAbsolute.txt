@@ -1,0 +1,5 @@
+D:\Clubcard\RUN\IntergalacticToRoman\IntergalacticToRoman\bin\Debug\IntergalacticToRoman.exe.config
+D:\Clubcard\RUN\IntergalacticToRoman\IntergalacticToRoman\bin\Debug\IntergalacticToRoman.exe
+D:\Clubcard\RUN\IntergalacticToRoman\IntergalacticToRoman\bin\Debug\IntergalacticToRoman.pdb
+D:\Clubcard\RUN\IntergalacticToRoman\IntergalacticToRoman\obj\x86\Debug\IntergalacticToRoman.exe
+D:\Clubcard\RUN\IntergalacticToRoman\IntergalacticToRoman\obj\x86\Debug\IntergalacticToRoman.pdb
